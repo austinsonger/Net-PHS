@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Statusfy//phs_platform_status//calendar//scheduled//EN
-NAME:PHS Platform Status
-X-WR-CALNAME:PHS Platform Status
+PRODID:-//Statusfy//phs_status//calendar//scheduled//EN
+NAME:PHS Status
+X-WR-CALNAME:PHS Status
 TIMEZONE-ID:UTC
 X-WR-TIMEZONE:UTC
 END:VCALENDAR
