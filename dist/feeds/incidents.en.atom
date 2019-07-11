@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/</id>
-    <title>PHS PLatform Status</title>
-    <updated>2019-07-11T21:35:22.394Z</updated>
+    <title>PHS Platform Status</title>
+    <updated>2019-07-11T21:51:36.692Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="/"/>
     <link rel="self" href="//feeds/incidents.en.atom"/>

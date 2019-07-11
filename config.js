@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "PHS PLatform Status",
+  "title": "PHS Platform Status",
   "name": "phs_platform_status",
   "description": "Status Page",
   "defaultLocale": "en",
