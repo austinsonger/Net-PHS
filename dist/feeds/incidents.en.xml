@@ -4,7 +4,7 @@
         <title>PHS Platform Status</title>
         <link>/</link>
         <description>Status Page</description>
-        <lastBuildDate>Fri, 12 Jul 2019 14:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2019 14:52:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="//feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>

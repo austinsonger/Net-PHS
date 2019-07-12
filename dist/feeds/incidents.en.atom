@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/</id>
     <title>PHS Platform Status</title>
-    <updated>2019-07-12T14:44:29.171Z</updated>
+    <updated>2019-07-12T14:52:22.661Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="/"/>
     <link rel="self" href="//feeds/incidents.en.atom"/>
