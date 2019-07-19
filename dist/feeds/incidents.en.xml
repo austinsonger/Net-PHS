@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>PHS Platform Status</title>
         <link>/</link>
         <description>Status Page</description>
-        <lastBuildDate>Fri, 12 Jul 2019 14:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2019 18:39:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="//feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regular Schedule Deployment]]></title>
+            <link>//incidents/0f9b5a38</link>
+            <guid>//incidents/0f9b5a38</guid>
+            <pubDate>Fri, 12 Jul 2019 14:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p>This is part of our weekly schedule deployment.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cloudflare - Route Leak]]></title>
+            <link>//incidents/63f4cc28</link>
+            <guid>//incidents/63f4cc28</guid>
+            <pubDate>Mon, 24 Jun 2019 11:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Cloudflare route leak impacting multiple Cloudflare IP Ranges and are working on their network to resolved.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cloudflare - HTTP 502 errors]]></title>
+            <link>//incidents/b156971e</link>
+            <guid>//incidents/b156971e</guid>
+            <pubDate>Sat, 02 Feb 2019 13:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Cloudflare has some network issues. Customers of cloudflare may be experiencing 502 errors while accessing sites that use Cloudflare.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

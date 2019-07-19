@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/</id>
     <title>PHS Platform Status</title>
-    <updated>2019-07-12T14:55:08.649Z</updated>
+    <updated>2019-07-19T18:39:29.300Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="/"/>
     <link rel="self" href="//feeds/incidents.en.atom"/>
     <subtitle>Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Regular Schedule Deployment]]></title>
+        <id>//incidents/0f9b5a38</id>
+        <link href="//incidents/0f9b5a38"/>
+        <updated>2019-07-12T14:49:19.491Z</updated>
+        <content type="html"><![CDATA[<p>This is part of our weekly schedule deployment.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare - Route Leak]]></title>
+        <id>//incidents/63f4cc28</id>
+        <link href="//incidents/63f4cc28"/>
+        <updated>2019-06-24T11:02:12.474Z</updated>
+        <content type="html"><![CDATA[<p>Cloudflare route leak impacting multiple Cloudflare IP Ranges and are working on their network to resolved.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare - HTTP 502 errors]]></title>
+        <id>//incidents/b156971e</id>
+        <link href="//incidents/b156971e"/>
+        <updated>2019-02-02T13:52:38.422Z</updated>
+        <content type="html"><![CDATA[<p>Cloudflare has some network issues. Customers of cloudflare may be experiencing 502 errors while accessing sites that use Cloudflare.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
 </feed>

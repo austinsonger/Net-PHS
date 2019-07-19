@@ -1,6 +1,6 @@
 ---toml
 title = "Cloudflare - HTTP 502 errors"
-date = "2019-02-02T13:52:38.422Z"
+date = "2019-07-02T13:52:00.000Z"
 severity = "major-outage"
 affectedsystems = ["site-delivery"]
 resolved = true
